@@ -1,3 +1,10 @@
+---
+layout: default
+title: Presence Detection | CelloTrain
+nav_order: 2
+parent: CelloTrain Overview
+has_children: false
+---
 ## Presence Detection
 {:.no_toc}
 

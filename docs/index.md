@@ -1,42 +1,18 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: CelloTrain Overview
+nav_order: 1
+has_children: true
+---
+# Welcome to my collection of model train related projects
+{:.no_toc}
 
-You can use the [editor on GitHub](https://github.com/4cello/CelloTrain/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
+### [Train Presence Detection](presence_detection/index.md)
+![Presence Detection PCB](presence_detection/pcb_render.png)
+A circuit board that monitors up to 8 track segments for current flow and outputs a signal for evaluation with an MCU (Arduino, ESP, <sup>Raspberry Pi</sup>...) or other components (LEDs, ...).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Download links, schematics and explanations](presence_detection/index.md)
 
-[Train Presence goes here](presence_detection/index.md)
-
-* TOC
-{:toc}
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4cello/CelloTrain/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[//]: # (* TOC)
+[//]: # ({:toc})

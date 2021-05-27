@@ -14,13 +14,14 @@ Compatible with analog control as well as DCC (I don't know enough about other d
 
 ### Download
 | Version | Link |
----|---
-v1.0 | [Release](https://github.com/4cello/CelloTrain/releases/tag/presence-v1.0)
+| ------- | ---- |
+v1.0 | [Release](https://github.com/4cello/CelloTrain/releases/tag/presence-v1.0) |
+
 ### BOM
 To fully assemble the PCB, the following components are required:
 
 | Component | Qty | Usage | Comment |
----|---|---|---
+| --------- | --- | ----- | ------- |
 Screw Terminal, 8pin, 5.08mm pitch | 1 | Connects to the track segments.
 Screw Terminal, 2pin, 5.08mm pitch | 1 | Connects to the signal input. | Both pins are shorted so it doesn't matter which one you use.
 Pin Header, 8pin, 2.54mm pitch | 1 | Used as logic output. | Male or female. Connected to the collectors of the optocouplers.

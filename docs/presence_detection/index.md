@@ -12,9 +12,9 @@ Compatible with analog control as well as DCC (I don't know enough about other d
 {:toc}
 
 ### Download
-| Version | Gerber | KiCAD-Source
----|---|---
-v1.0 | [Download](https://github.com/4cello/CelloTrain/blob/c5761e4bd054c1284fc20a77ff76de1f738c2807/presence_detection/pcb_design/out/train-presence-v1.0.zip) | [Github](https://github.com/4cello/CelloTrain/tree/main/presence_detection/pcb_design)
+| Version | Link
+---|---
+v1.0 | [Release](https://github.com/4cello/CelloTrain/releases/tag/presence-v1.0)
 ### BOM
 To fully assemble the PCB, the following components are required:
 

@@ -12,7 +12,7 @@ Compatible with analog control as well as DCC (I don't know enough about other d
 {:toc}
 
 ### Download
-| Version | Link
+| Version | Link |
 ---|---
 v1.0 | [Release](https://github.com/4cello/CelloTrain/releases/tag/presence-v1.0)
 ### BOM

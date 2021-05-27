@@ -4,9 +4,6 @@ title: CelloTrain Overview
 nav_order: 1
 has_children: true
 ---
-# Welcome to my collection of model train related projects
-{:.no_toc}
-
 ## Projects
 ### [Train Presence Detection](presence_detection/index.md)
 ![Presence Detection PCB](presence_detection/pcb_render.png)

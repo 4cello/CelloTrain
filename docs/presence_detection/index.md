@@ -7,7 +7,8 @@ Compatible with analog control as well as DCC (I don't know enough about other d
 
 ![PCB Render](pcb_render.png)
 
-
+### Table of Contents
+{:.no_toc}
 * TOC
 {:toc}
 
